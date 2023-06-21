@@ -13,6 +13,8 @@ Hello, I am Arda Eker. I graduated from Mersin University Vocational School of T
 </p>
 
 <div align="center">
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardaeker)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 
